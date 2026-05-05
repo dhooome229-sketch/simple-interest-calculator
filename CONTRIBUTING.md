@@ -1,8 +1,3 @@
-2"}
 # Contributing
 
-Contributions are welcome!
-
-- Report bugs
-- Suggest improvements
-- Submit pull reque
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.

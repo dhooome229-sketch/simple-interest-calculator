@@ -1,6 +1,6 @@
-# Simple Interest Calculator
+# github-final-project
 
-This project is a simple interest calculator created as part of the Git and GitHub course project.
+This project is a final Git and GitHub course project for calculating simple interest.
 
 ## Features
 - Calculates simple interest
